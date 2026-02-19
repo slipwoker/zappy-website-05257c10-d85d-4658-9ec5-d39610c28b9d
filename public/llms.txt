@@ -1,57 +1,47 @@
-# מטרות ז'2 — Generative Engine Optimization Map
-
-> A חינוך וטכנולוגיה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://2-05257c10.zappy5.app
+https://example.com
 פלטפורמה דיגיטלית חכמה למעקב אחר התקדמות תלמידים ורישום מטרות אישיות. הצטרפו למורים שכבר משנים את פני החינוך עם מטרות ז'2
 
 ### אודות
-https://2-05257c10.zappy5.app/about
+https://example.com/about
 גלו את הסיפור מאחורי מטרות ז'2 והאמונה שלנו בכוח של מעקב אחר התקדמות תלמידים. למדו איך אנחנו עוזרים לאלפי מורים להשיג תוצאות מרשימות
 
 ### תוכניות
-https://2-05257c10.zappy5.app/programs
+https://example.com/programs
 בחרו מבין מגוון תוכניות מותאמות אישית לרישום מטרות ומעקב אחר התקדמות. כלים מתקדמים שהופכים כל מורה למנהיג חינוכי מצליח
 
 ### צור קשר
-https://2-05257c10.zappy5.app/contact
+https://example.com/contact
 מוכנים לשדרג את ניהול המטרות בכיתה? צוות המומחים שלנו ממתין לעזור לכם ליישם את מערכת ניהול מטרות תלמידים המתקדמת ביותר בישראל
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://2-05257c10.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://2-05257c10.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://2-05257c10.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About מטרות ז'2
-מטרות ז'2 is a business in the חינוך וטכנולוגיה industry.
-
-## Target Audience
-מורים ואנשי חינוך
-
-## Industry
-חינוך וטכנולוגיה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://2-05257c10.zappy5.app/sitemap.xml
-- **Robots.txt**: https://2-05257c10.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
